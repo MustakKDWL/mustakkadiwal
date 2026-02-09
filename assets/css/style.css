@@ -4,9 +4,7 @@
   box-sizing: border-box;
  
 }
-body{
-  background: lime !important;
-}
+
 
 html {
   scroll-behavior: smooth;
